@@ -4,7 +4,7 @@
 [![2nd Place](https://img.shields.io/badge/IMCity%20Algothon-2nd%20Place-silver)](https://github.com)
 [![PnL](https://img.shields.io/badge/Final%20PnL-283%2C033-brightgreen)](https://github.com)
 
-**2nd Place, IMCity London Algothon 2026**
+**1st Place Novice, IMCity London Algothon 2026**
 
 *A data-driven, multi-strategy approach combining external-data theoretical models, ETF arbitrage, aggressive directional trading, and Monte Carlo derivative pricing across 8 synthetic products tied to real-world London data.*
 
