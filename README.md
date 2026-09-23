@@ -1,7 +1,7 @@
 # Multi-Strategy Algorithmic Trading System
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![2nd Place](https://img.shields.io/badge/IMCity%20Algothon-2nd%20Place-silver)](https://github.com)
+[![1st Place](https://img.shields.io/badge/IMCity%20Algothon-1st%20Place-silver)](https://github.com)
 [![PnL](https://img.shields.io/badge/Final%20PnL-283%2C033-brightgreen)](https://github.com)
 
 **1st Place Novice, IMCity London Algothon 2026**
